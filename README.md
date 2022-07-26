@@ -1,19 +1,16 @@
 # Juampa Muralles
-![xd](https://github-readme-stats.vercel.app/api?username=juampam&hide=stars,issues&show_icons=true&theme=dracula)
 
 
+<diV>
 
-<!--
-**juampam/juampam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div align="center">
+    <a href="#"><img alt="Juampam GitHUb Stats" src="https://github-readme-stats.vercel.app/api?username=juampam&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Top Languajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampam&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=juampam&label=Profile%20views&color=0e75b6&style=flat" alt="ae" /> </p>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
 
-Here are some ideas to get you started:
+  <hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
