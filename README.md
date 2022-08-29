@@ -8,11 +8,12 @@
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
  </div>
-<div>
+
 # Certifications 
 <img style="float: right;" src="https://github.com/juampam/juampam/blob/main/certs/LFD103.jpg" width="200px"> 
+
 <div style="float:left">
 ## A Beginner's Guide to Linux Kernel Development - The Linux Foundation
 </div>
-</div>
+
  
