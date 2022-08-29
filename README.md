@@ -10,7 +10,8 @@
  </div>
 
 # Certifications 
-<img style="float: right;" src="whatever.jpg"> 
+<img style="float: right;" src="https://github.com/juampam/juampam/blob/main/certs/LFD103.jpg"> 
+
 ## A Beginner's Guide to Linux Kernel Development - The Linux Foundation
 
  
