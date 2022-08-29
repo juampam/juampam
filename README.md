@@ -1,3 +1,9 @@
+# Skills
+###  🌐 Networking
+###  👨‍💻 Web Applications
+###  📁 Git
+###  🐧🦬 GNU/Linux
+
 # GitHub
 <div>
   <div align="center">
@@ -9,7 +15,7 @@
   </div>
  </div>
 
-# Certifications 
+# Certifications & Badges
 ## A Beginner's Guide to Linux Kernel Development - The Linux Foundation
 <img style="float: right;" src="https://github.com/juampam/juampam/blob/main/certs/LFD103.jpg" width="500px"> 
 
