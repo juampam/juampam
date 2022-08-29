@@ -1,8 +1,3 @@
-# Skills
-###  🌐 Networking
-###  👨‍💻 Web Applications
-###  📁 Git
-###  🐧🦬 GNU/Linux
 
 # GitHub
 <div>
@@ -14,6 +9,12 @@
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
  </div>
+ 
+# Skills
+###  🌐 Networking
+###  👨‍💻 Web Applications
+###  📁 Git
+###  🐧🦬 GNU/Linux
 
 # Certifications & Badges
 ## A Beginner's Guide to Linux Kernel Development - The Linux Foundation
